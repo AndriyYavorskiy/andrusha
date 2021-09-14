@@ -1,0 +1,11 @@
+{
+  "name": "andrii-ext",
+  "version": "1.0.0",
+  "description": "Test extention app",
+  "main": "index.html",
+  "scripts": {
+    "test": "go-test"
+  },
+  "author": "Andrusha",
+  "license": "ISC"
+}

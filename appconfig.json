@@ -1,0 +1,20 @@
+
+{
+    "name": "Andrii's Extension",
+    "provider": "Andrusha",
+    "description": "Sample extension inside Shell with Shell navigation",   
+    "version": "1.0.0", 
+    "icon": "https://www.andrusha-fond.ru/local/templates/andryusha/assets/images/heart-assets/01-h.png",
+    "translations": [
+      {
+        "lang": "ua",
+        "name": "І все буде добре!",
+        "description": "Це просто пробне розшірення для SAP "
+      }
+    ],
+    "useShellSDK": true,
+    "outletPositions": [
+        "SHELL_HOME_SCREEN"
+    ],
+    "shellNavigation": {}
+}
