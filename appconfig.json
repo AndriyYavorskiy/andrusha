@@ -12,9 +12,8 @@
         "description": "Це просто пробне розшірення для SAP "
       }
     ],
-    "useShellSDK": true,
+    "useShellSDK": false,
     "outletPositions": [
         "SHELL_HOME_SCREEN"
-    ],
-    "shellNavigation": {}
+    ]
 }
