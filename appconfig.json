@@ -15,5 +15,24 @@
     "useShellSDK": false,
     "outletPositions": [
         "SHELL_HOME_SCREEN"
-    ]
+    ],
+    "insideShell": true,
+    "shellNavigation": {
+        "icon": "activities",
+        "sideNavigation": [
+          {
+            "pathSegment": "home",
+            "labelTranslations": [
+              {
+                "lang": "en",
+                "value": "Home"
+              }
+            ],
+            "viewUrl": "/#/",
+            "icon": "home",
+            "isDefault": true,
+            "children": []
+          }
+       ]
+    }
 }
