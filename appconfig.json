@@ -17,6 +17,20 @@
         "SHELL_HOME_SCREEN"
     ],
     "insideShell": true,
+    "parameters": [{
+      "name": "alowContact",
+      "type": "BOOLEAN",
+      "labelTranslations": [
+        {
+          "lang": "en",
+          "value": "Allow contact"
+        },
+        {
+          "lang": "de",
+          "value": "Kontakt zulassen"
+        }
+      ]
+    }],
     "shellNavigation": {
         "icon": "activities",
         "sideNavigation": [
