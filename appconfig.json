@@ -30,7 +30,34 @@
           "value": "Kontakt zulassen"
         }
       ]
-    }],
+    },
+    {
+      "name": "apiKey",
+      "required": true,
+      "type": "TEXT",
+      "regexValidation": "^[a-zA-Z-]+$",
+      "labelTranslations": [
+        {
+          "lang": "en",
+          "value": "API Key"
+        },
+        {
+          "lang": "de",
+          "value": "API-Schlüssel"
+        }
+      ],
+      "placeholderTranslations": [
+        {
+          "lang": "en",
+          "value": "API key received in the confirmation mail"
+        },
+        {
+          "lang": "de",
+          "value": "API-Schlüssel, den Sie in der Bestätigungsmail erhalten haben"
+        }
+      ]
+    },
+   ],
     "shellNavigation": {
         "icon": "activities",
         "sideNavigation": [
