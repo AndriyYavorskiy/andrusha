@@ -56,8 +56,7 @@
           "value": "API-Schlüssel, den Sie in der Bestätigungsmail erhalten haben"
         }
       ]
-    },
-   ],
+    }],
     "shellNavigation": {
         "icon": "activities",
         "sideNavigation": [
