@@ -13,8 +13,7 @@
     ],
     "useShellSDK": false,
     "outletPositions": [
-        "SHELL_HOME_SCREEN",
-
+        "SHELL_HOME_SCREEN"
     ],
     "insideShell": true,
     "parameters": [{
