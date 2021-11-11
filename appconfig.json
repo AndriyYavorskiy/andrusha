@@ -60,6 +60,32 @@
           "value": "API-Schlüssel, den Sie in der Bestätigungsmail erhalten haben"
         }
       ]
+    },
+    {
+      "name": "networkName",
+      "required": true,
+      "type": "TEXT",
+      "regexValidation": "^[a-zA-Z-]+$",
+      "labelTranslations": [
+        {
+          "lang": "en",
+          "value": "Net name"
+        },
+        {
+          "lang": "de",
+          "value": "Der Netzwerkname"
+        }
+      ],
+      "placeholderTranslations": [
+        {
+          "lang": "en",
+          "value": "The network name"
+        },
+        {
+          "lang": "de",
+          "value": "Der Netzwerkname, den Sie in der Bestätigungsmail erhalten haben"
+        }
+      ]
     }],
     "shellNavigation": {
         "icon": "activities",
