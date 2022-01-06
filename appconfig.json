@@ -12,7 +12,7 @@
       }
     ],
     "useShellSDK": false,
-    "optimalHeight": null,
+    "optimalHeight": "480",
     "outletPositions": [
         
     ],
