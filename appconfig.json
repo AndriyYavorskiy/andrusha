@@ -2,7 +2,7 @@
     "name": "Andrii's Extension",
     "provider": "Andrusha",
     "description": "Sample extension inside Shell with Shell navigation",   
-    "version": "1.0.0", 
+    "version": "1.0.1", 
     "icon": "https://www.andrusha-fond.ru/local/templates/andryusha/assets/images/heart-assets/01-h.png",
     "translations": [
       {
