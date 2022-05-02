@@ -3,7 +3,7 @@
     "provider": "Andrusha",
     "description": "Sample extension inside Shell with Shell navigation",   
     "version": "1.0.1", 
-    "icon": "https://www.andrusha-fond.ru/local/templates/andryusha/assets/images/heart-assets/01-h.png",
+    "icon": "https://angular.io/generated/images/marketing/home/code-icon.svg",
     "translations": [
       {
         "lang": "ua",
