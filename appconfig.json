@@ -16,7 +16,7 @@
     "outletPositions": [
         "PP_ASSIGNMENT_DETAILS_2"
     ],
-    "extensionPolicies": ["allow-forms"],
+    "extensionPolicies": ["allow-forms", "allow-modals"],
     "insideShell": true,
     "parameters": [{
       "name": "alowContact",
