@@ -18,7 +18,8 @@
     ],
     "extensionPolicies": ["allow-forms", "allow-modals", "allow-downloads"],
     "insideShell": true,
-    "parameters": [{
+    "parameters": [],
+    "paramete": [{
       "name": "alowContact",
       "type": "BOOLEAN",
       "labelTranslations": [
