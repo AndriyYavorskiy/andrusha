@@ -16,7 +16,7 @@
     "outletPositions": [
         "RANDOM", "PP_ASSIGNMENT_DETAILS_1", "PP_ASSIGNMENT_DETAILS_2", "WFM_ACTIVITY_SIDEBAR"
     ],
-    "extensionPolicies": [],
+    "extensionPolicies$": [],
     "insideShell": true,
     "parameters": [],
     "paramete": [{
