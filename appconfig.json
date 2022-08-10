@@ -16,8 +16,9 @@
     "outletPositions": [
         "PP_ASSIGNMENT_DETAILS_1", "PP_ASSIGNMENT_DETAILS_2", "WFM_ACTIVITY_SIDEBAR"
     ],
-    "extensionPolicies": ["w-r-o-n-g"],
+    "extensionPolicies": [],
     "insideShell": true,
+    "parameters": [],
     "paramete": [{
       "name": "alowContact",
       "type": "BOOLEAN",
