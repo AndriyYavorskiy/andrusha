@@ -14,7 +14,7 @@
     "useShellSDK": false,
     "optimalHeight": "480",
     "outletPositions": [
-        "PP_ASSIGNMENT_DETAILS_1", "PP_ASSIGNMENT_DETAILS_2", "WFM_ACTIVITY_SIDEBAR", "UNEXPECTED"
+        "PP_ASSIGNMENT_DETAILS_1", "PP_ASSIGNMENT_DETAILS_2", "WFM_ACTIVITY_SIDEBAR"
     ],
     "extensionPolicies": ["allow-forms", "allow-modals", "allow-downloads"],
     "insideShell": true,
