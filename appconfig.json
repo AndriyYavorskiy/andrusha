@@ -20,20 +20,6 @@
     "insideShell": true,
     "parameter": [],
     "parameters": [{
-      "name": "alowContact",
-      "type": "BOOLEAN",
-      "labelTranslations": [
-        {
-          "lang": "en",
-          "value": "Allow contact"
-        },
-        {
-          "lang": "de",
-          "value": "Kontakt zulassen"
-        }
-      ]
-    },
-    {
       "name": "apiKey",
       "required": true,
       "type": "TEXT",
