@@ -83,22 +83,5 @@
         }
       ]
     }],
-    "shellNavigation": {
-        "icon": "activities",
-        "sideNavigation": [
-          {
-            "pathSegment": "home",
-            "labelTranslations": [
-              {
-                "lang": "en",
-                "value": "Home"
-              }
-            ],
-            "viewUrl": "/#/",
-            "icon": "home",
-            "isDefault": true,
-            "children": []
-          }
-       ]
-    }
+    "shellNavigation": null
 }
