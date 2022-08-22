@@ -87,7 +87,7 @@
         "icon": "activities",
         "sideNavigation": [
           {
-            "rootPathSegment": "home",
+            "pathSegment": "home",
             "labelTranslations": [
               {
                 "lang": "en",
