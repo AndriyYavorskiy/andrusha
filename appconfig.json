@@ -82,5 +82,24 @@
           "value": "Der Netzwerkname, den Sie in der Bestätigungsmail erhalten haben"
         }
       ]
-    }]
+    }],
+    "shellNavigation": {
+        "icon": "activities",
+        "sideNavigation": [
+          {
+            "pathSegment": "home",
+            "labelTranslations": [
+              {
+                "lang": "en",
+                "value": "Home"
+              }
+            ],
+            "viewUrl": "/#/",
+            "icon": "home",
+            "isDefault": true,
+            "children": []
+          }
+       ]
+    }
+
 }
