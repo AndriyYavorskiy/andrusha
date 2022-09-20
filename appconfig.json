@@ -3,7 +3,7 @@
     "provider": "Andrusha",
     "description": "Sample extension inside Shell with Shell navigation",   
     "version": "1.0.8", 
-    "icon": "https://alternative.me/media/256/angular-icon-lrnlz9b30ayf5zyf-c.png",
+    "icon": "http://alternative.me/media/256/angular-icon-lrnlz9b30ayf5zyf-c.png",
     "translations": [
       {
         "lang": "ua",
