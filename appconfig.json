@@ -1,5 +1,5 @@
 {
-    "name": "Andrii's Extension",
+    "name": "Andrii's Extension"
     "provider": "Andrusha",
     "description": "Sample extension inside Shell with Shell navigation",   
     "version": "1.0.8", 
