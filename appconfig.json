@@ -83,8 +83,6 @@
         }
       ]
     }],
-    "shellNavigation": {
-        "wrong": "prop"
-    }
+    "shellNavigation": null
 
 }
