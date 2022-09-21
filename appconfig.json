@@ -84,6 +84,7 @@
       ]
     }],
     "shellNavigation": {
+        "wrong": "prop"
     }
 
 }
