@@ -16,7 +16,7 @@
     "outletPositions": [
         "PP_ASSIGNMENT_DETAILS_1", "PP_ASSIGNMENT_DETAILS_2", "WFM_ACTIVITY_SIDEBAR"
     ],
-    "extensionPolicies": ["allow-forms", "allow-modals", "allow-downloads", "allow-same-origin"],
+    "extensionPolicies": ["allow-forms", "allow-modals", "allow-downloads", "allow-same-origin", "allow-scripts"],
     "insideShell": true,
     "parameter": [],
     "parameters": [{
