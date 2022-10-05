@@ -2,7 +2,7 @@
     "name": "Andrii's Extension",
     "provider": "Andrusha",
     "description": "Simple extension inside Shell with Shell navigation",   
-    "version": "1.0.42", 
+    "version": "1.0.43", 
     "icon": "https://alternative.me/media/256/angular-icon-lrnlz9b30ayf5zyf-c.png",
     "translations": [
       {
