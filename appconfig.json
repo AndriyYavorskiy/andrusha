@@ -18,7 +18,6 @@
     ],
     "extensionPolicies": ["allow-forms", "allow-modals", "allow-downloads", "allow-same-origin", "allow-scripts"],
     "insideShell": true,
-    "parameter": [],
     "parameters": [{
       "name": "alowContact",
       "type": "BOOLEAN",
