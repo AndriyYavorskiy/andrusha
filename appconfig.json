@@ -16,7 +16,7 @@
     "outletPositions": [
        "WFM_ACTIVITY_SIDEBAR", "SERVICE_CALL_ACTIVITY_OUTLET_TAB"
     ],
-    "extensionPolicies": ["allow-forms", "allow-modals", "allow-downloads", "allow-same-origin", "allow-scripts"],
+    "extensionPolicies": [],
     "insideShell": true,
     "parameters": [{
       "name": "alowContact",
