@@ -14,7 +14,7 @@
     "useShellSDK": false,
     "optimalHeight": "480",
     "outletPositions": [
-        "WFM_ACTIVITY_SIDEBAR", "SERVICE_CALL_ACTIVITY_OUTLET_TAB"
+        "PP_ASSIGNMENT_DETAILS_1", "PP_ASSIGNMENT_DETAILS_2", "WFM_ACTIVITY_SIDEBAR", "SERVICE_CALL_ACTIVITY_OUTLET_TAB"
     ],
     "extensionPolicies": ["allow-forms", "allow-modals", "allow-downloads", "allow-same-origin", "allow-scripts"],
     "insideShell": true,
